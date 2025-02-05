@@ -1,8 +1,10 @@
-# React + Vite
+# Flow app to visualise frow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic flow app, where we can add following nodes: Task, Notification, Condition and connect them using edges. This also provide a functionality to undoi and redo.
 
-Currently, two official plugins are available:
+Step to run the project on your local machine:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- take a git checkout (main branch)
+- run command "npm install" it will install the dependencies
+- run comman "npm run dev" it will run the project on local server.
+- to build the project run command "npm run build"
